@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Eric Jesus 👋</h1>
 
-<h3 align="center">Estudante de Ciência da Computação | Em busca de aprimoramento em desenvolvimento de software 👨‍💻</h3>
+<h3 align="center">Estudante de Ciência da Computação na UFRRJ | Em busca de aprimoramento em desenvolvimento de software 👨‍💻</h3>
 
 <p align="center">
   🔭 Atualmente aprofundando meus estudos em desenvolvimento de software<br>
